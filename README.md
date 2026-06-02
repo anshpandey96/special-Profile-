@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- PHOTO / AVATAR -->
-<img src="https://avatars.githubusercontent.com/u/anshpandey96" width="130" style="border-radius:50%; border: 3px solid #36BCF7;" alt="Ansh Pandey" />
+<img src="https://avatars.githubusercontent.com/anshpandey96" width="130" style="border-radius:50%; border: 3px solid #36BCF7;" alt="Ansh Pandey" />
 
 <h1>Hi 👋, I'm Ansh Pandey</h1>
 <h3>MERN Stack & Java Developer &nbsp;|&nbsp; AI & DevOps Enthusiast</h3>
@@ -57,7 +56,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshpandey96&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=F72585&currStreakLabel=36BCF7&sideLabels=C9D1D9&dates=8B949E&stroke=21262D" alt="GitHub Streak" width="600" />
+<img src="https://streak-stats.demolab.com/?user=anshpandey96&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=F72585&currStreakLabel=36BCF7&sideLabels=C9D1D9&dates=8B949E&stroke=21262D" alt="GitHub Streak" width="600" />
 
 <br/><br/>
 
