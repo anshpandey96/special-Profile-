@@ -156,7 +156,6 @@ Educational web platform for language learning.
 
 📧 [anshpandey8543@gmail.com](mailto:anshpandey8543@gmail.com) &nbsp;•&nbsp;
 💼 [LinkedIn](https://www.linkedin.com/in/ansh-pandey-b1ab34333) &nbsp;•&nbsp;
-📸 [@ansh_x_85](https://www.instagram.com/ansh_x_85)
 
 <br/>
 
@@ -164,7 +163,6 @@ Educational web platform for language learning.
 
 <br/>
 
-⭐ *Agar mera kaam pasand aaye to repo pe star zaroor dena!*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:1F6FEB,100:0D1117&height=110&section=footer" width="100%" alt="footer"/>
 
